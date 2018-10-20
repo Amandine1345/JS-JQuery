@@ -1,0 +1,21 @@
+.jquery-slider {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.slider {
+    position: relative;
+    height: 450px;
+    width: 640px;
+}
+
+.slider ul {
+    list-style: none;
+}
+
+.slider ul li {
+    position: absolute;
+    top: 0;
+    left: 0;
+}
